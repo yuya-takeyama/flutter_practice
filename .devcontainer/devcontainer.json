@@ -8,7 +8,7 @@
     "git": "latest"
   },
   "remoteEnv": {
-    "PATH": "/home/vscode/.local/share/aquaproj-aqua/bin:${containerEnv:PATH}",
+    "PATH": "/opt/flutter/bin:${containerEnv:PATH}",
     "SHELL": "/bin/zsh"
   },
   "settings": {
